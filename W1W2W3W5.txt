@@ -1,0 +1,595 @@
+group_20707:
+	2225_warfarin: [3]
+	2222_warfarin: [26]
+	2202_warfarin: [10]
+	2227_warfarin: [32]
+group_20708:
+	2225_warfarin: [4]
+	2222_warfarin: [27]
+	2202_warfarin: [11]
+	2227_warfarin: [33]
+group_20709:
+	2225_warfarin: [5]
+	2222_warfarin: [28]
+	2202_warfarin: [8]
+	2227_warfarin: [30]
+group_20710:
+	2225_warfarin: [6]
+	2222_warfarin: [29]
+	2202_warfarin: [9]
+	2227_warfarin: [31]
+group_20712:
+	2225_warfarin: [8]
+	2222_warfarin: [20]
+	2202_warfarin: [5]
+	2227_warfarin: [38]
+group_20713:
+	2225_warfarin: [9]
+	2222_warfarin: [21]
+	2202_warfarin: [6]
+	2227_warfarin: [39]
+group_20714:
+	2225_warfarin: [10]
+	2222_warfarin: [22]
+	2202_warfarin: [3]
+	2227_warfarin: [36]
+group_20715:
+	2225_warfarin: [11]
+	2222_warfarin: [23]
+	2202_warfarin: [4]
+	2227_warfarin: [37]
+group_20754:
+	2225_warfarin: [15]
+	2222_warfarin: [33]
+	2202_warfarin: [16]
+	2227_warfarin: [21]
+group_20812:
+	2225_warfarin: [15]
+	2222_warfarin: [32]
+	2202_warfarin: [15]
+	2227_warfarin: [21]
+group_20813:
+	2225_warfarin: [16]
+	2222_warfarin: [34]
+	2202_warfarin: [17]
+	2227_warfarin: [22]
+group_20828:
+	2225_warfarin: [13]
+	2222_warfarin: [30]
+	2202_warfarin: [13]
+	2227_warfarin: [19]
+group_20829:
+	2225_warfarin: [14]
+	2222_warfarin: [31]
+	2202_warfarin: [14]
+	2227_warfarin: [20]
+group_20836:
+	2225_warfarin: [6]
+	2222_warfarin: [29]
+	2202_warfarin: [9]
+	2227_warfarin: [39]
+group_20845:
+	2225_warfarin: [3]
+	2222_warfarin: [26]
+	2202_warfarin: [10]
+	2227_warfarin: [36]
+group_20846:
+	2225_warfarin: [4]
+	2222_warfarin: [27]
+	2202_warfarin: [11]
+	2227_warfarin: [37]
+group_20847:
+	2225_warfarin: [5]
+	2222_warfarin: [28]
+	2202_warfarin: [8]
+	2227_warfarin: [38]
+group_20849:
+	2225_warfarin: [8]
+	2222_warfarin: [20]
+	2202_warfarin: [5]
+	2227_warfarin: [30]
+group_20850:
+	2225_warfarin: [9]
+	2222_warfarin: [21]
+	2202_warfarin: [6]
+	2227_warfarin: [31]
+group_20851:
+	2225_warfarin: [10]
+	2222_warfarin: [22]
+	2202_warfarin: [3]
+	2227_warfarin: [32]
+group_20852:
+	2225_warfarin: [11]
+	2222_warfarin: [23]
+	2202_warfarin: [4]
+	2227_warfarin: [33]
+group_20988:
+	2225_warfarin: [7]
+	2222_warfarin: []
+	2202_warfarin: []
+	2227_warfarin: [10]
+group_21000:
+	2225_warfarin: [23]
+	2222_warfarin: []
+	2202_warfarin: []
+	2227_warfarin: [29]
+group_21029:
+	2225_warfarin: [21]
+	2222_warfarin: []
+	2202_warfarin: []
+	2227_warfarin: [28]
+group_21030:
+	2225_warfarin: [22]
+	2222_warfarin: []
+	2202_warfarin: []
+	2227_warfarin: [26]
+group_21224:
+	2225_warfarin: [25]
+	2222_warfarin: [15]
+	2202_warfarin: [25]
+	2227_warfarin: [9]
+group_21711:
+	2225_warfarin: [8]
+	2222_warfarin: [20]
+	2202_warfarin: [8]
+	2227_warfarin: [30]
+group_21712:
+	2225_warfarin: [9]
+	2222_warfarin: [21]
+	2202_warfarin: [9]
+	2227_warfarin: [31]
+group_21713:
+	2225_warfarin: [10]
+	2222_warfarin: [22]
+	2202_warfarin: [10]
+	2227_warfarin: [32]
+group_21714:
+	2225_warfarin: [11]
+	2222_warfarin: [23]
+	2202_warfarin: [11]
+	2227_warfarin: [33]
+group_21717:
+	2225_warfarin: [3]
+	2222_warfarin: [26]
+	2202_warfarin: [3]
+	2227_warfarin: [36]
+group_21718:
+	2225_warfarin: [4]
+	2222_warfarin: [27]
+	2202_warfarin: [4]
+	2227_warfarin: [37]
+group_21719:
+	2225_warfarin: [5]
+	2222_warfarin: [28]
+	2202_warfarin: [5]
+	2227_warfarin: [38]
+group_21720:
+	2225_warfarin: [6]
+	2222_warfarin: [29]
+	2202_warfarin: [6]
+	2227_warfarin: [39]
+group_21724:
+	2225_warfarin: [9]
+	2222_warfarin: [21]
+	2202_warfarin: [9]
+	2227_warfarin: [39]
+group_21735:
+	2225_warfarin: [8]
+	2222_warfarin: [20]
+	2202_warfarin: [8]
+	2227_warfarin: [38]
+group_21736:
+	2225_warfarin: [10]
+	2222_warfarin: [22]
+	2202_warfarin: [10]
+	2227_warfarin: [36]
+group_21737:
+	2225_warfarin: [11]
+	2222_warfarin: [23]
+	2202_warfarin: [11]
+	2227_warfarin: [37]
+group_21740:
+	2225_warfarin: [3]
+	2222_warfarin: [26]
+	2202_warfarin: [3]
+	2227_warfarin: [32]
+group_21741:
+	2225_warfarin: [4]
+	2222_warfarin: [27]
+	2202_warfarin: [4]
+	2227_warfarin: [33]
+group_21742:
+	2225_warfarin: [5]
+	2222_warfarin: [28]
+	2202_warfarin: [5]
+	2227_warfarin: [30]
+group_21743:
+	2225_warfarin: [6]
+	2222_warfarin: [29]
+	2202_warfarin: [6]
+	2227_warfarin: [31]
+group_21936:
+	2225_warfarin: []
+	2222_warfarin: [38]
+	2202_warfarin: [22]
+	2227_warfarin: []
+group_21937:
+	2225_warfarin: []
+	2222_warfarin: [39]
+	2202_warfarin: [20]
+	2227_warfarin: []
+group_21951:
+	2225_warfarin: [10]
+	2222_warfarin: [26]
+	2202_warfarin: [3]
+	2227_warfarin: [32]
+group_21952:
+	2225_warfarin: [11]
+	2222_warfarin: [27]
+	2202_warfarin: [4]
+	2227_warfarin: [33]
+group_21953:
+	2225_warfarin: [8]
+	2222_warfarin: [28]
+	2202_warfarin: [5]
+	2227_warfarin: [30]
+group_21954:
+	2225_warfarin: [9]
+	2222_warfarin: [29]
+	2202_warfarin: [6]
+	2227_warfarin: [31]
+group_21956:
+	2225_warfarin: [5]
+	2222_warfarin: [20]
+	2202_warfarin: [8]
+	2227_warfarin: [38]
+group_21957:
+	2225_warfarin: [6]
+	2222_warfarin: [21]
+	2202_warfarin: [9]
+	2227_warfarin: [39]
+group_21958:
+	2225_warfarin: [3]
+	2222_warfarin: [22]
+	2202_warfarin: [10]
+	2227_warfarin: [36]
+group_21959:
+	2225_warfarin: [4]
+	2222_warfarin: [23]
+	2202_warfarin: [11]
+	2227_warfarin: [37]
+group_21969:
+	2225_warfarin: [9]
+	2222_warfarin: [29]
+	2202_warfarin: [9]
+	2227_warfarin: [39]
+group_22083:
+	2225_warfarin: [9]
+	2222_warfarin: [29]
+	2202_warfarin: [6]
+	2227_warfarin: [39]
+group_22092:
+	2225_warfarin: [10]
+	2222_warfarin: [26]
+	2202_warfarin: [3]
+	2227_warfarin: [36]
+group_22093:
+	2225_warfarin: [11]
+	2222_warfarin: [27]
+	2202_warfarin: [4]
+	2227_warfarin: [37]
+group_22094:
+	2225_warfarin: [8]
+	2222_warfarin: [28]
+	2202_warfarin: [5]
+	2227_warfarin: [38]
+group_22096:
+	2225_warfarin: [5]
+	2222_warfarin: [20]
+	2202_warfarin: [8]
+	2227_warfarin: [30]
+group_22097:
+	2225_warfarin: [6]
+	2222_warfarin: [21]
+	2202_warfarin: [9]
+	2227_warfarin: [31]
+group_22098:
+	2225_warfarin: [3]
+	2222_warfarin: [22]
+	2202_warfarin: [10]
+	2227_warfarin: [32]
+group_22099:
+	2225_warfarin: [4]
+	2222_warfarin: [23]
+	2202_warfarin: [11]
+	2227_warfarin: [33]
+group_22202:
+	2225_warfarin: []
+	2222_warfarin: [33]
+	2202_warfarin: [15]
+	2227_warfarin: []
+group_22203:
+	2225_warfarin: []
+	2222_warfarin: [32]
+	2202_warfarin: [16]
+	2227_warfarin: []
+group_22243:
+	2225_warfarin: []
+	2222_warfarin: [16]
+	2202_warfarin: [7]
+	2227_warfarin: []
+group_22255:
+	2225_warfarin: []
+	2222_warfarin: [19]
+	2202_warfarin: [23]
+	2227_warfarin: []
+group_22263:
+	2225_warfarin: []
+	2222_warfarin: [37]
+	2202_warfarin: [20]
+	2227_warfarin: []
+group_22264:
+	2225_warfarin: []
+	2222_warfarin: [38]
+	2202_warfarin: [21]
+	2227_warfarin: []
+group_22274:
+	2225_warfarin: []
+	2222_warfarin: [37]
+	2202_warfarin: [21]
+	2227_warfarin: []
+group_22275:
+	2225_warfarin: []
+	2222_warfarin: [39]
+	2202_warfarin: [22]
+	2227_warfarin: []
+group_22281:
+	2225_warfarin: []
+	2222_warfarin: [35]
+	2202_warfarin: [18]
+	2227_warfarin: []
+group_22282:
+	2225_warfarin: []
+	2222_warfarin: [36]
+	2202_warfarin: [19]
+	2227_warfarin: []
+group_22283:
+	2225_warfarin: []
+	2222_warfarin: [38]
+	2202_warfarin: [20]
+	2227_warfarin: []
+group_22284:
+	2225_warfarin: []
+	2222_warfarin: [39]
+	2202_warfarin: [21]
+	2227_warfarin: []
+group_22285:
+	2225_warfarin: []
+	2222_warfarin: [37]
+	2202_warfarin: [22]
+	2227_warfarin: []
+group_22463:
+	2225_warfarin: [23]
+	2222_warfarin: [16]
+	2202_warfarin: [23]
+	2227_warfarin: [10]
+group_22477:
+	2225_warfarin: [38]
+	2222_warfarin: [1]
+	2202_warfarin: [39]
+	2227_warfarin: [13]
+group_22597:
+	2225_warfarin: [28]
+	2222_warfarin: [12]
+	2202_warfarin: [29]
+	2227_warfarin: [6]
+group_22825:
+	2225_warfarin: [32]
+	2222_warfarin: [8]
+	2202_warfarin: [33]
+	2227_warfarin: [1]
+group_22826:
+	2225_warfarin: [31]
+	2222_warfarin: [7]
+	2202_warfarin: [32]
+	2227_warfarin: [2]
+group_22827:
+	2225_warfarin: [29]
+	2222_warfarin: [9]
+	2202_warfarin: [30]
+	2227_warfarin: [3]
+group_22828:
+	2225_warfarin: [30]
+	2222_warfarin: [10]
+	2202_warfarin: [31]
+	2227_warfarin: [4]
+group_22829:
+	2225_warfarin: [27]
+	2222_warfarin: [11]
+	2202_warfarin: [28]
+	2227_warfarin: [5]
+group_22830:
+	2225_warfarin: [26]
+	2222_warfarin: [13]
+	2202_warfarin: [27]
+	2227_warfarin: [7]
+group_22831:
+	2225_warfarin: [24]
+	2222_warfarin: [14]
+	2202_warfarin: [24]
+	2227_warfarin: [8]
+group_22832:
+	2225_warfarin: [37]
+	2222_warfarin: [2]
+	2202_warfarin: [38]
+	2227_warfarin: [12]
+group_22833:
+	2225_warfarin: [36]
+	2222_warfarin: [3]
+	2202_warfarin: [37]
+	2227_warfarin: [14]
+group_22834:
+	2225_warfarin: [35]
+	2222_warfarin: [4]
+	2202_warfarin: [36]
+	2227_warfarin: [15]
+group_22835:
+	2225_warfarin: [33]
+	2222_warfarin: [5]
+	2202_warfarin: [34]
+	2227_warfarin: [16]
+group_22836:
+	2225_warfarin: [34]
+	2222_warfarin: [6]
+	2202_warfarin: [35]
+	2227_warfarin: [17]
+group_22995:
+	2225_warfarin: [20]
+	2222_warfarin: []
+	2202_warfarin: []
+	2227_warfarin: [26]
+group_22996:
+	2225_warfarin: [21]
+	2222_warfarin: []
+	2202_warfarin: []
+	2227_warfarin: [27]
+group_23006:
+	2225_warfarin: [20]
+	2222_warfarin: []
+	2202_warfarin: []
+	2227_warfarin: [27]
+group_23007:
+	2225_warfarin: [22]
+	2222_warfarin: []
+	2202_warfarin: []
+	2227_warfarin: [28]
+group_23012:
+	2225_warfarin: [17]
+	2222_warfarin: []
+	2202_warfarin: []
+	2227_warfarin: [23]
+group_23013:
+	2225_warfarin: [18]
+	2222_warfarin: []
+	2202_warfarin: []
+	2227_warfarin: [24]
+group_23014:
+	2225_warfarin: [19]
+	2222_warfarin: []
+	2202_warfarin: []
+	2227_warfarin: [25]
+group_23015:
+	2225_warfarin: [21]
+	2222_warfarin: []
+	2202_warfarin: []
+	2227_warfarin: [26]
+group_23016:
+	2225_warfarin: [22]
+	2222_warfarin: []
+	2202_warfarin: []
+	2227_warfarin: [27]
+group_23017:
+	2225_warfarin: [20]
+	2222_warfarin: []
+	2202_warfarin: []
+	2227_warfarin: [28]
+group_23095:
+	2225_warfarin: [5]
+	2222_warfarin: [20]
+	2202_warfarin: [5]
+	2227_warfarin: [30]
+group_23096:
+	2225_warfarin: [6]
+	2222_warfarin: [21]
+	2202_warfarin: [6]
+	2227_warfarin: [31]
+group_23097:
+	2225_warfarin: [3]
+	2222_warfarin: [22]
+	2202_warfarin: [3]
+	2227_warfarin: [32]
+group_23098:
+	2225_warfarin: [4]
+	2222_warfarin: [23]
+	2202_warfarin: [4]
+	2227_warfarin: [33]
+group_23101:
+	2225_warfarin: [10]
+	2222_warfarin: [26]
+	2202_warfarin: [10]
+	2227_warfarin: [36]
+group_23102:
+	2225_warfarin: [11]
+	2222_warfarin: [27]
+	2202_warfarin: [11]
+	2227_warfarin: [37]
+group_23103:
+	2225_warfarin: [8]
+	2222_warfarin: [28]
+	2202_warfarin: [8]
+	2227_warfarin: [38]
+group_23130:
+	2225_warfarin: [9]
+	2222_warfarin: [29]
+	2202_warfarin: [9]
+	2227_warfarin: [31]
+group_23139:
+	2225_warfarin: [12]
+	2222_warfarin: [18]
+	2202_warfarin: [12]
+	2227_warfarin: [18]
+group_23140:
+	2225_warfarin: [7]
+	2222_warfarin: [19]
+	2202_warfarin: [7]
+	2227_warfarin: [29]
+group_23141:
+	2225_warfarin: [8]
+	2222_warfarin: [28]
+	2202_warfarin: [8]
+	2227_warfarin: [30]
+group_23142:
+	2225_warfarin: [10]
+	2222_warfarin: [26]
+	2202_warfarin: [10]
+	2227_warfarin: [32]
+group_23143:
+	2225_warfarin: [11]
+	2222_warfarin: [27]
+	2202_warfarin: [11]
+	2227_warfarin: [33]
+group_23144:
+	2225_warfarin: [2]
+	2222_warfarin: [24]
+	2202_warfarin: [2]
+	2227_warfarin: [34]
+group_23145:
+	2225_warfarin: [1]
+	2222_warfarin: [25]
+	2202_warfarin: [1]
+	2227_warfarin: [35]
+group_23146:
+	2225_warfarin: [3]
+	2222_warfarin: [22]
+	2202_warfarin: [3]
+	2227_warfarin: [36]
+group_23147:
+	2225_warfarin: [4]
+	2222_warfarin: [23]
+	2202_warfarin: [4]
+	2227_warfarin: [37]
+group_23148:
+	2225_warfarin: [5]
+	2222_warfarin: [20]
+	2202_warfarin: [5]
+	2227_warfarin: [38]
+group_23149:
+	2225_warfarin: [6]
+	2222_warfarin: [21]
+	2202_warfarin: [6]
+	2227_warfarin: [39]
+group_23152:
+	2225_warfarin: []
+	2222_warfarin: [17]
+	2202_warfarin: []
+	2227_warfarin: [11]
